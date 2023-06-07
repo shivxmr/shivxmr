@@ -34,8 +34,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivxmr" alt="shivxmr" /></a> </p> -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivxmr&" alt="shivxmr" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivxmr&show_icons=true&locale=en" alt="shivxmr" /></p>
+<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivxmr&" alt="shivxmr" /> </p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shivxmr&show_icons=true&locale=en" alt="shivxmr" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivxmr&show_icons=true&locale=en&layout=compact" alt="shivxmr" /></p>
 
