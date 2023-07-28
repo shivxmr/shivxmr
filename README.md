@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
 
-<p align="center"><b>Portfolio Website</b> <a href="https://shivxmr.netlify.app">shivxmr.netlify.app</a></p>
+<p align="center"><b>Portfolio Website</b> <a href="https://shivxmr.netlify.app target="_blank"">shivxmr.netlify.app</a></p>
 
 
 <!-- RAINBOW LINE TOP -->
