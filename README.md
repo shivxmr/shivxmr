@@ -3,34 +3,25 @@
 <p align="center"><b>Portfolio Website</b> <a href="https://shivxmr.netlify.app" 
  target="_blank">shivxmr.netlify.app</a></p>
 
-
 <!-- RAINBOW LINE TOP -->
 <img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h3 align="center">Aspiring Software Developer from India</h3>
 
-
-
 <img align="right" alt="coding" width="400" src="https://github.com/shivxmr/shivxmr/blob/main/img.gif">
 
-
-- 🌱 I’m currently learning **Java**
+<!-- - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivxmr](https://github.com/shivxmr)
 
 - 💬 Ask me about **React, Python and Java**
 
-- 📫 How to reach me **shivxmr@gmail.com**
+- 📫 How to reach me **shivxmr@gmail.com** -->
 
 <!-- - ⚡ Fun fact **Ice creams taste better than chai/coffee.** -->
 
-
 <!-- RAINBOW LINE TOP -->
 <img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
-
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -48,17 +39,11 @@
 <a href="https://www.leetcode.com/shivxmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
 
 <!--     Discord
-<a href="https://discord.gg/username" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->  
+<a href="https://discord.gg/username" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
 </p>
 
-
-
-<!-- RAINBOW LINE TOP -->
-<img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
-
-
+<details>
+<summary>Click to expand/collapse</summary>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -92,14 +77,13 @@
 </p>        
 <!--- stats (end) -->
 
-
-
 <!-- RAINBOW LINE TOP -->
 <img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+</details>
 
-
-
+<!-- RAINBOW LINE TOP -->
+<img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Tech Stack -->
 
@@ -109,7 +93,6 @@
   </ul>
 </div>
 
-
 <!-- Visit this website for iamges  -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <p align="center">
@@ -117,8 +100,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
 </p>
 
-
-<!-- 
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
@@ -134,7 +116,6 @@
  
   
   </div>
-      
 
 <!-- <div align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" width="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -148,7 +129,7 @@
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=shivxmr&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
-    
+
 </div>
       
 <!-- https://readmd.itsvg.in -->
