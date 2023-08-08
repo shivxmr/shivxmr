@@ -5,11 +5,13 @@
  target="_blank">shivxmr.netlify.app</a></p>
 
 <!-- RAINBOW LINE TOP -->
-<img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- <img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> -->
 
 <!-- <h3 align="center">Aspiring Software Developer from India</h3> -->
 
-<img align="center" alt="coding" width="400" src="https://github.com/shivxmr/shivxmr/blob/main/img.gif">
+<!-- Coding GIF -->
+
+<!-- <img align="center" alt="coding" width="400" src="https://github.com/shivxmr/shivxmr/blob/main/img.gif"> -->
 
 <!-- - 🌱 I’m currently learning **Java**
 
@@ -25,7 +27,6 @@
 <img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
@@ -42,6 +43,8 @@
 <!--     Discord
 <a href="https://discord.gg/username" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
 </p>
+
+<img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <details>
 <summary>GITHUB STATS</summary>
@@ -79,7 +82,7 @@
 <!--- stats (end) -->
 
 <!-- RAINBOW LINE TOP -->
-<img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- <img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> -->
 
 </details>
 
@@ -89,12 +92,12 @@
 <!-- Tech Stack -->
 
 <details>
-<summary>MY TECH STACK </summary>
-<div id="user-content-toc">
+<summary>MY TECH STACK 👨‍💻</summary>
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My Tech Stack 👨‍💻</h2></summary>
   </ul>
-</div>
+</div> -->
 
 <!-- Visit this website for iamges  -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
