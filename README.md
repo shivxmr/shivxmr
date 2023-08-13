@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h2 align="center">A passionate software developer from India </h2>
 
-<p align="center"><b>Portfolio Website</b> <a href="https://shivxmr.netlify.app" 
- target="_blank">shivxmr.netlify.app</a></p>
+<p align="center"><b>Portfolio Website</b> <a href="https://shivxmr.vercel.app" 
+ target="_blank">shivxmr.vercel.app</a></p>
 
 <!-- RAINBOW LINE TOP -->
 <!-- <img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> -->
