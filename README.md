@@ -131,6 +131,11 @@ Tech Stack
 <!-- RAINBOW LINE TOP -->
 <img align="center" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+##  Buy Me A Coffee! ☕
+
+<a href="https://www.buymeacoffee.com/shivxm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 <!-- Visitors Count -->
 
 <div align="center">
